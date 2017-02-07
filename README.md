@@ -54,6 +54,7 @@ Lines starting with `*` are automatically rendered as bullet points and phrases 
 * Nishant Nikhil [nishnik](http://github.com/nishnik)
 * Partha Sarathi Mishra [parthamishra1996](http://github.com/parthamishra1996)
 * Prabhat Agarwal [prabhat1081](http://github.com/prabhat1081)
+* Prakhar Tripathi [prakhar1234](https://github.com/prakhar1234)
 * Pranai Kumar [pranaikumar](http://github.com/pranaikumar)
 * Priyank Palod [priyankpalod](https://github.com/priyankpalod)
 * Rameshwar Bhaskaran [zorroblue](https://github.com/zorroblue)
