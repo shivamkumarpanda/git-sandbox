@@ -41,6 +41,7 @@ Lines starting with `*` are automatically rendered as bullet points and phrases 
 * Arna Ghosh [arnaghosh](http://github.com/arnaghosh)
 * Barnopriyo Barua [barno0695](http://github.com/barno0695)
 * Chinmoy Samant [chinmoysam](https://github.com/chinmoysam)
+* Gaurav Suryawanshi [Gauraviitkgp](https://github.com/Gauraviitkgp)
 * Harsh Gupta [hargup](http://github.com/hargup)
 * Joseph Nii Lante Lamptey [niiwade](https://github.com/niiwade)
 * Kalyan Kumar [kalyan-kumar](http://github.com/kalyan-kumar)
