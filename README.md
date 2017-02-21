@@ -72,6 +72,7 @@ Lines starting with `*` are automatically rendered as bullet points and phrases 
 * Sanskar Agrawal [sanskar-sopho](https://github.com/sanskar-sopho)
 * Satyesh Mundra [satyeshmundra](https://github.com/satyeshmundra)
 * Shaswat Datta [Shaswat27](http://github.com/Shaswat27) 
+* Shivam Kumar Panda [shivamkumarpanda](http://github.com/shivamkumarpanda)
 * Siddharth Kannan [icyflame](http://github.com/icyflame)
 * Srichandra [srichandra](https://github.com/srichandra)
 * Swastik Haldar [basher666](https://github.com/basher666)
